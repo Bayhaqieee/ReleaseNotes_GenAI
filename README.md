@@ -2,7 +2,7 @@
 
 This project deploys an autonomous multi-agent system designed to streamline the entire process of tracking and understanding software release notes. It operates in two distinct modes: a proactive newsletter dispatcher that keeps your team updated, and a reactive Q&A email bot that provides intelligent, on-demand answers about specific updates.
 
-The system leverages AI agents built with crewAI, a sophisticated Retrieval-Augmented Generation (RAG) pipeline for Q&A, and a robust data collection engine using Selenium and various APIs.
+The system leverages AI agents built with crewAI, a sophisticated Retrieval-Augmented Generation (RAG) and Cache Augmented Generation pipeline for Q&A, and a robust data collection engine using Selenium and various APIs.
 
 ---
 
@@ -105,7 +105,8 @@ Open the ReleaseNote_email.ipynb notebook in Google Colab or another Jupyter env
 ### Demo Video
 
 More Details on this Demo!
-[Link to Demo Video]
+
+[Link to Demo Video](https://youtu.be/HG42WWrw4IU)
 
 ---
 
